@@ -1,0 +1,33 @@
+<h1 mat-dialog-title>Cadastro de Livro</h1>
+<div mat-dialog-content>
+    <form [formGroup]="registerFormControl" class="login-form" appIdentityRevealed>
+        <mat-grid-list cols="1" rowHeight="70px">
+            <mat-grid-tile>
+                <mat-form-field class="input">
+                    <input matInput placeholder="Número do Exemplar" formControlName="copyNumber" name="copyNumber" [(ngModel)]="data.copyNumber">
+                    <mat-error *ngIf="registerFormControl.get('copyNumber').hasError('required')">
+                            O número do exemplar é <strong>obrigatório</strong>
+                    </mat-error>
+                    <mat-error *ngIf="registerFormControl.get('copyNumber').hasError('pattern')">
+                            O número do exemplar deve ser <strong>numérico</strong>
+                    </mat-error>
+                    <mat-error *ngIf="registerFormControl.get('copyNumber').hasError('maxlength')">
+                            O número do exemplar deve ter <strong>um máximo de 9 digitos</strong>
+                    </mat-error>
+                </mat-form-field>
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <mat-form-field class="input">
+                    <input matInput placeholder="Título do livro" formControlName="title" [(ngModel)]="data.title">
+                    <mat-error *ngIf="registerFormControl.get('title').hasError('required')">
+                        O título do livro é <strong>obrigatório</strong>
+                    </mat-error>
+                </mat-form-field>
+            </mat-grid-tile>
+        </mat-grid-list>
+    </form>
+</div>
+<div mat-dialog-actions align="end">
+    <button mat-raised-button color="warn" mat-dialog-close>Cancelar</button>
+    <button mat-raised-button color="primary" [disabled]="!registerFormControl.valid" [mat-dialog-close]="data">Ok</button>
+</div>

@@ -1,0 +1,8 @@
+<h1 mat-dialog-title>Remover Livro</h1>
+<div mat-dialog-content>
+    Tem certeza que deseja remover o livro <strong>{{data.title}}</strong>?
+</div>
+<div mat-dialog-actions align="end">
+    <button mat-raised-button color="warn" mat-dialog-close>Cancelar</button>
+    <button mat-raised-button color="primary" [mat-dialog-close]="data">Confimar</button>
+</div>

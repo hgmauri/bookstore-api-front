@@ -1,0 +1,9 @@
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\bin\Release\netcoreapp2.2\Recruitment.Domain.deps.json
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\bin\Release\netcoreapp2.2\Recruitment.Domain.dll
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\bin\Release\netcoreapp2.2\Recruitment.Domain.pdb
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\obj\Release\netcoreapp2.2\Recruitment.Domain.csprojAssemblyReference.cache
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\obj\Release\netcoreapp2.2\Recruitment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\obj\Release\netcoreapp2.2\Recruitment.Domain.AssemblyInfoInputs.cache
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\obj\Release\netcoreapp2.2\Recruitment.Domain.AssemblyInfo.cs
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\obj\Release\netcoreapp2.2\Recruitment.Domain.dll
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Domain\obj\Release\netcoreapp2.2\Recruitment.Domain.pdb

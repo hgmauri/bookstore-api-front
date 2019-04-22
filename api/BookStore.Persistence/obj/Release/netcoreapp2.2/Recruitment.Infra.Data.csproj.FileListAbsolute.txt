@@ -1,0 +1,14 @@
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\bin\Release\netcoreapp2.2\Recruitment.Infra.Data.deps.json
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\bin\Release\netcoreapp2.2\Recruitment.Infra.Data.runtimeconfig.json
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\bin\Release\netcoreapp2.2\Recruitment.Infra.Data.runtimeconfig.dev.json
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\bin\Release\netcoreapp2.2\Recruitment.Infra.Data.dll
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\bin\Release\netcoreapp2.2\Recruitment.Infra.Data.pdb
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\bin\Release\netcoreapp2.2\Recruitment.Domain.dll
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\bin\Release\netcoreapp2.2\Recruitment.Domain.pdb
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\obj\Release\netcoreapp2.2\Recruitment.Infra.Data.csprojAssemblyReference.cache
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\obj\Release\netcoreapp2.2\Recruitment.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\obj\Release\netcoreapp2.2\Recruitment.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\obj\Release\netcoreapp2.2\Recruitment.Infra.Data.AssemblyInfo.cs
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\obj\Release\netcoreapp2.2\Recruitment.Infra.Data.csproj.CopyComplete
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\obj\Release\netcoreapp2.2\Recruitment.Infra.Data.dll
+C:\Users\NORDESTeuSOU\source\repos\Recruitment\Recruitment.Infra.Data\obj\Release\netcoreapp2.2\Recruitment.Infra.Data.pdb
